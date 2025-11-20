@@ -1,2 +1,5 @@
-// TODO: Use console.log(), console.warn(), and console.error()
+// Use console.log(), console.warn(), and console.error()
+console.log("This is a log message.");
+console.warn("This is a warning.");
+console.error("This is an error.");
 
