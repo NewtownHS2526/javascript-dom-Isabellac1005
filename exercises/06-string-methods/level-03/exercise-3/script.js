@@ -2,3 +2,6 @@
 // Example: let text = "Hello";
 //          console.log(text.length);
 
+let text = "Hello";
+console.log(text.length);   
+    
