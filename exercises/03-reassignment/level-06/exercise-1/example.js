@@ -10,3 +10,6 @@ console.log("After:", count);
 // - Change the values
 // - Combine with other concepts
 // - Experiment with different approaches
+
+
+console.log("Exercise completed!");
