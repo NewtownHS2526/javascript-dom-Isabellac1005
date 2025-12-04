@@ -1,3 +1,4 @@
-// TODO: Use console.log() to print "Hello, World!"
+// Use console.log() to print "Hello, World!"
+console.log("Hello, World!");
 
 console.log("Hello, World!");
